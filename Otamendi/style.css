@@ -1,0 +1,72 @@
+body {
+    overflow: hidden;
+    background-image: url("https://p4.wallpaperbetter.com/wallpaper/27/524/837/argentina-flag-wallpaper-preview.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+#ota1 {
+    position: absolute;
+    height: 100vh;
+    width: 50vh;
+    top: 40px;
+    left: 0%;
+    z-index: 1;
+}
+
+#ota2 {
+    position: absolute;
+    height: 100vh;
+    width: 50vh;
+    top: 40px;
+    left: 15%;
+    z-index: 1;
+}
+
+#ota3 {
+    position: absolute;
+    height: 100vh;
+    width: 50vh;
+    top: 40px;
+    left: 65%;
+    z-index: 1;
+}
+
+#ota4 {
+    position: absolute;
+    height: 95vh;
+    width: 50vh;
+    top: 40px;
+    z-index: 1;
+}
+
+#ota5 {
+    position: absolute;
+    right: 30%;
+    width: 70vh;
+    height: 100vh;
+}
+
+
+
+ .bi-facebook{
+    font-size: 25px;
+    color: rgb(25, 46, 231);
+    margin-bottom:10%;
+    margin-left: -10%;
+
+  
+}
+
+h6{
+    color: rgb(107, 111, 114);
+
+}
+
+
+
+
+
+
+
